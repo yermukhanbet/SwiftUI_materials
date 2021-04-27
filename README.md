@@ -1,4 +1,4 @@
-# SwiftUI_materials
+# SwiftUI materials
 List of materials for SwitUI. 
 
 The list is not forked from any ratings. It was created exclusively by me and based on my preferences.
