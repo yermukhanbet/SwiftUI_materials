@@ -12,3 +12,6 @@ This list will be constantly updated.
 
 # Interview questions in FAANG
 https://faizulla49g.medium.com/ios-interview-questions-for-faang-companies-cd94835b496c
+
+# Helpful articles:
+1. Network adapter with Alamofire: https://stevenpcurtis.medium.com/a-networking-manager-with-alamofire-24ddab69dc85
