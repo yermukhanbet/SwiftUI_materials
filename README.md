@@ -11,10 +11,16 @@ This list will be constantly updated.
 2. Video lectures from Stanford: https://www.youtube.com/watch?app=desktop&v=bqu6BquVi2M&list=PLpGHT1n4-mAsxuRxVPv7kj4-dQYoC3VVu
 
 ## Recommended Books
-1. https://elvanco.com/blog/best-swift-books-to-learn-ios-development
+1. Overall swift and SwiftUI development books: https://elvanco.com/blog/best-swift-books-to-learn-ios-development
 
 ## Interview questions in FAANG
-1. https://faizulla49g.medium.com/ios-interview-questions-for-faang-companies-cd94835b496c
+1.  iOS interview questions: https://faizulla49g.medium.com/ios-interview-questions-for-faang-companies-cd94835b496c
 
-## Helpful articles:
+## Helpful articles
 1. Network adapter with Alamofire: https://stevenpcurtis.medium.com/a-networking-manager-with-alamofire-24ddab69dc85
+
+## Open source apps
+1. Fabula: popular UI components built on SwiftUI https://apps.apple.com/kr/app/fabula-code-suite-for-swiftui/id1591155142?l=en 
+
+## Open chats
+1. SwiftUI telegram chat for Russian speakers: https://t.me/SwiftUIClubChat
