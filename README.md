@@ -1,5 +1,6 @@
 # SwiftUI materials
 List of materials for SwitUI. 
+Please, make pull request or open issue, if you have any additional info to be added! 
 
 The list is not forked from any ratings. It was created exclusively by me and based on my preferences.
 
