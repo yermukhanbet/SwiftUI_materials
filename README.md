@@ -24,3 +24,6 @@ This list will be constantly updated.
 
 ## Open chats
 1. SwiftUI telegram chat for Russian speakers: https://t.me/SwiftUIClubChat
+
+## Dive deep into Swift
+1. Swift as a functional programmging: https://www.pointfree.co
