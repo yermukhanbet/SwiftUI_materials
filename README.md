@@ -15,6 +15,7 @@ This list will be constantly updated.
 
 ## Interview questions in FAANG
 1.  iOS interview questions: https://faizulla49g.medium.com/ios-interview-questions-for-faang-companies-cd94835b496c
+2.  System Design: https://docs.google.com/document/d/1pOarvQbjzLd9tz5ZuxktyrYsZ41mbWba5_LUeFj65lI/edit
 
 ## Helpful articles
 1. Network adapter with Alamofire: https://stevenpcurtis.medium.com/a-networking-manager-with-alamofire-24ddab69dc85
