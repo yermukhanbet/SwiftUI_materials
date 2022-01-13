@@ -28,3 +28,4 @@ This list will be constantly updated.
 
 ## Dive deep into Swift
 1. Swift as a functional programmging: https://www.pointfree.co
+2. Podcasts related to swift: https://swiftunwrapped.github.io
