@@ -19,6 +19,7 @@ This list will be constantly updated.
 
 ## Helpful articles
 1. Network adapter with Alamofire: https://stevenpcurtis.medium.com/a-networking-manager-with-alamofire-24ddab69dc85
+2. UIViewController LifeCycle in UIKit: https://guides.codepath.com/ios/View-Controller-Lifecycle
 
 ## Open source apps
 1. Fabula: popular UI components built on SwiftUI https://apps.apple.com/kr/app/fabula-code-suite-for-swiftui/id1591155142?l=en 
