@@ -1,4 +1,4 @@
-# SwiftUI materials
+# iOS materials
 List of materials for SwitUI. 
 Please, make pull request or open issue, if you have any additional info to be added! 
 
