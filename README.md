@@ -21,6 +21,7 @@ This list will be constantly updated.
 1. Network adapter with Alamofire: https://stevenpcurtis.medium.com/a-networking-manager-with-alamofire-24ddab69dc85
 2. UIViewController LifeCycle in UIKit: https://guides.codepath.com/ios/View-Controller-Lifecycle
 3. LayoutSubviews article in Russian: https://russianblogs.com/article/91051379780/
+4. Animation for changing frame or constraint example: https://www.hackingwithswift.com/read/15/4/transform-cgaffinetransform
 
 ## Open source apps
 1. Fabula: popular UI components built on SwiftUI https://apps.apple.com/kr/app/fabula-code-suite-for-swiftui/id1591155142?l=en 
