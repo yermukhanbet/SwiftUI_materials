@@ -9,6 +9,7 @@ This list will be constantly updated.
 ## Online video lectures
 1. Video tutorials, with live coding: https://talk.objc.io/episodes/S01E156-a-first-look-at-swiftui
 2. Video lectures from Stanford: https://www.youtube.com/watch?app=desktop&v=bqu6BquVi2M&list=PLpGHT1n4-mAsxuRxVPv7kj4-dQYoC3VVu
+3. Diffable Data Source WWDC: https://developer.apple.com/videos/play/wwdc2019/220/
 
 ## Recommended Books
 1. Overall swift and SwiftUI development books: https://elvanco.com/blog/best-swift-books-to-learn-ios-development
