@@ -27,6 +27,7 @@ This list will be constantly updated.
 
 ## Open source apps
 1. Fabula: popular UI components built on SwiftUI https://apps.apple.com/kr/app/fabula-code-suite-for-swiftui/id1591155142?l=en 
+2. Animated UIButton: https://www.roryba.in/programming/swift/2018/03/24/animating-uibutton.html
 
 ## Open chats
 1. SwiftUI telegram chat for Russian speakers: https://t.me/SwiftUIClubChat
