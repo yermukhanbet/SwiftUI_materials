@@ -25,6 +25,7 @@ This list will be constantly updated.
 3. LayoutSubviews article in Russian: https://russianblogs.com/article/91051379780/
 4. Animation for changing frame or constraint example: https://www.hackingwithswift.com/read/15/4/transform-cgaffinetransform
 5. Animation basic information: https://www.smashingmagazine.com/2019/11/performing-ios-animations-views-uikit-uiview/
+6. Swift concurrentcy: https://docs.swift.org/swift-book/LanguageGuide/Concurrency.html
 
 ## Open source apps
 1. Fabula: popular UI components built on SwiftUI https://apps.apple.com/kr/app/fabula-code-suite-for-swiftui/id1591155142?l=en 
